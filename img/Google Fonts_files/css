@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Gnuolane Jump';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=tss1ApZHaDAE4BngNnrv0xXGlqfXrEtR-5BiXn0DiXzF1Cw&skey=1578af5636932d65&v=v1) format('woff2');
+}

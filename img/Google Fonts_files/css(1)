@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Jump';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=1Ptvg8_AX_WfxWOU3RgvAMwfcBIaZw&skey=af1b5d2f1bec3cce&v=v3) format('woff2');
+}
